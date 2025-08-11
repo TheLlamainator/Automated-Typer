@@ -7,6 +7,9 @@ Useful for **UI testing**, **accessibility workflows**, and **automation demos**
 > This tool is **not** intended to evade copy/paste detection, academic integrity systems, or any monitoring/anti-abuse controls.  
 > Do **not** use it to mislead platforms or people. Use responsibly and in compliance with applicable policies and laws.
 
+macOS note: you may need to grant Accessibility permissions to your terminal or Python in
+System Settings → Privacy & Security → Accessibility.
+
 ---
 
 ## Features
